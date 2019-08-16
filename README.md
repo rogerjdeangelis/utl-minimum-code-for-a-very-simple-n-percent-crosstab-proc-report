@@ -1,17 +1,17 @@
 # utl-minimum-code-for-a-very-simple-n-percent-crosstab-proc-report
 Minimum code for a very simple n percent crosstab proc report
-    Minimum code for a very simple n percent crosstab proc report                                                                 
-                                                                                                                                  
-     The code below creates the desired crosstab exactly.                                                                         
-                                                                                                                                  
-     There are two 'advanced features in this code                                                                                
-                                                                                                                                  
-        1. Single SQL select to create bigN for each treatment column                                                             
-        2. Psuedo dynamic array. Array defined ate compile time.                                                                  
-        3. Mutiple statistics in each cell                                                                                        
-                                                                                                                                  
-      * the rport can easily be generlised for more tretment columns usin macro array and do_over;                                
-                                                                                                                                  
+    Minimum code for a very simple n percent crosstab proc report                                      
+                                                                                                       
+     The code below creates the desired crosstab exactly.                                              
+                                                                                                       
+     There are two 'advanced features in this code                                                     
+                                                                                                       
+        1. Single SQL select to create bigN for each treatment column                                  
+        2. Psuedo dynamic array. Array defined at compile time.                                        
+        3. Multiple statistics in each cell                                                            
+                                                                                                       
+      * The report can easily be generalized for more treatment columns using macro array and do_over; 
+                                                                                                                                                                       
                                                                                                                                   
     Ouput report                                                                                                                  
     https://tinyurl.com/yxf899fy                                                                                                  
